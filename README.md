@@ -3,7 +3,7 @@
 <div id="header" align="center">
   </div>
 <div id="badges">
-  <a href="www.linkedin.com/in/agunbiade-victoria-124465233">
+  <a href="www.linkedin.com/in/agunbiade-victoria">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
